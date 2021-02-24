@@ -1,0 +1,9 @@
+pandas==1.0.4
+numpy==1.18.5
+scipy==1.4.1
+imblearn
+sklearn
+tensorflow==2.2.0
+lightgbm==3.1.0
+matplotlib==3.2.1
+plotly==4.9.0
